@@ -41,6 +41,11 @@ export default {
     margin-bottom: 1rem;
     box-shadow: 0 -1px 4px 0px rgba(0, 0, 0, 0.25);
   }
+  li.nav-item:hover {
+    box-shadow: inset 0px -10px 10px -5px rgba(255, 255, 255, 0.78);
+    transition: all .3s ease-in-out;
+    filter: saturate(1.2);
+}
   @media ( max-width:767px){
   .container{
     max-width: 73%;

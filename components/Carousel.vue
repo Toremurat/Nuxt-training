@@ -124,7 +124,8 @@ a.arrow-button.lf {
     line-height: 3.2rem;
     font-size: 3em;
     padding: 0;
-}}
+}
+}
 @media (max-width:767px){
 // .slide:nth-child(6n) {
 //     margin-right: 33rem!important;

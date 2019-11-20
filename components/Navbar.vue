@@ -147,6 +147,7 @@ li.nav-item{
   border-top-left-radius: 0;
   border-top-right-radius: 0;
   border-top: 2px inset rgba(0, 0, 0, 0.05);
+      z-index: 99995;
 }
 .dropdown>.dropdown-toggle:active {
   /*Without this, clicking will make it sticky*/
